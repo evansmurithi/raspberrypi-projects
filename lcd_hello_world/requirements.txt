@@ -1,0 +1,3 @@
+rplcd
+RPi.GPIO
+ipython
