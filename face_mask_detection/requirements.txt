@@ -1,0 +1,5 @@
+ipython
+opencv-python
+gpiozero
+RPi.GPIO
+smbus  # required by RPi_I2C_driver
